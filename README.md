@@ -7,4 +7,4 @@ EAGLE用のコネクタライブラリ集
 
 ## JST
 * PA  トップ型SMD
-* XA  トップ型SMD
+* XA  トップ型DIP
